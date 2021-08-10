@@ -13,12 +13,12 @@
 
 
 // Check Odd Numbers
-function checkOddNumber(number){
-    if(number % 2 == 1){
-        return 'Odd';
-    }
-    else{
-        return 'Even'
-    }
-}
-console.log(checkOddNumber(561));
+// function checkOddNumber(number){
+//     if(number % 2 == 1){
+//         return 'Odd';
+//     }
+//     else{
+//         return 'Even'
+//     }
+// }
+// console.log(checkOddNumber(561));
